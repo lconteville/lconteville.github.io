@@ -295,22 +295,22 @@ nav a:hover::before {
 }
 
 .slides .slide:nth-child(1) {
-  background-image: url(../img/first_bg.jpg);
+  background-color: #ff7b54;
 }
 .slides .slide:nth-child(2) {
-  background-image: url(../img/second_bg.jpg);
+  background-color: #ffb26b;
 }
 .slides .slide:nth-child(3) {
-  background-image: url(../img/third_bg.jpg);
+  background-color: #ffd56b;
 }
 .slides .slide:nth-child(4) {
-  background-image: url(../img/fourth_bg.jpg);
+  background-color: #939b62;
  }
 .slides .slide:nth-child(5) {
-  background-image: url(../img/fifth_bg.jpg);
+  background-color: #8BA7B5;
 }
 .slides .slide:nth-child(6) {
-  background-image: url(../img/fourth_bg.jpg);
+  background-color: ##928FC7;
 }
 .slides .slide img {
   width: 100%;
