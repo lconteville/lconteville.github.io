@@ -384,11 +384,11 @@ nav a:hover::before {
 	transition: all 0.5s;
 }
 
-.first-content .fb-btn {
+.third-content .fb-btn {
 	display: inline-block;
 }
 
-.first-content .fb-btn a {
+.third-content .fb-btn a {
 	display: inline-block;
 	background-color: #fff;
 	border: 2px solid #fff;
@@ -401,7 +401,7 @@ nav a:hover::before {
 	transition: all 0.5s;
 }
 
-.first-content .fb-btn a:hover {
+.third-content .fb-btn a:hover {
 	color: #fff;
 	background-color: transparent;
 }
